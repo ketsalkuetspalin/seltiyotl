@@ -1,0 +1,9 @@
+[submodule "core"]
+	path = core
+	url = git@github.com:resuelve/core.git
+[submodule "bank"]
+	path = bank
+	url = git@github.com:resuelve/bank.git
+[submodule "rtd"]
+	path = rtd
+	url = git@github.com:resuelve/rtd.git
